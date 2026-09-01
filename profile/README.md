@@ -40,7 +40,7 @@ https://demoports.github.io/mc-virus/
 **Adelanto** by **Solar**  
 https://solar-nl.github.io/adelanto-webgl/
 
-**Astral Blur** by **TBL**  
+**Astral Blur** by **The Black Lotus**  
 https://jasper2-0.github.io/ixalance-js/?demo=astral
 
 **Jizz** by **The Black Lotus**  
@@ -55,7 +55,7 @@ https://jasper2-0.github.io/threestate_nowhere/
 **please the cookie thing** by **Aardbei**  
 https://jasper2-0.github.io/ptct-webgl/
 
-**Stash by The Black Lotus**  
+**Stash** by **The Black Lotus**  
 https://jasper2-0.github.io/ixalance-js/?demo=stash
 
 **State of Mind** by **Bomb**  
