@@ -1,5 +1,3 @@
-## Demoscene Javascript Ports
-
 **Akkordarbeit** by **Bypass**  
 https://demoports.github.io/akkord/
 
