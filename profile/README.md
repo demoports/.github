@@ -72,3 +72,6 @@ https://solar-nl.github.io/we-aint-real-webgl/
 
 **Evoid droid** by **Excess** & **Portal Process**  
 https://gmegidish.github.io/evoid-droid-webgl/
+
+**Ninja 2** by **Melon** & **Scoop**
+https://gmegidish.github.io/ninja2/
