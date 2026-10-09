@@ -16,6 +16,9 @@ http://demoports.github.io/fr-041_debris/
 **hplus** by **halcyon**  
 https://demoports.github.io/hplus/
 
+**Medium** by **Einklang.net**  
+https://demoports.github.io/medium/
+
 **Nature v2.0** by **Threepixels**  
 https://demoports.github.io/3px_ntr2/
 
