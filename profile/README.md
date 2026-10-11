@@ -73,8 +73,44 @@ https://solar-nl.github.io/we-aint-real-webgl/
 ---
 
 
-**Evoid droid** by **Excess** & **Portal Process**  
-https://gmegidish.github.io/evoid-droid-webgl/
+**Baygon** by **Melon Dezign**  
+https://gmegidish.github.io/demoports/Baygon_by_Melon_Dezign/
 
-**Ninja 2** by **Melon** & **Scoop**
-https://gmegidish.github.io/ninja2/
+**Brother I Can See The Light** by **Immortals**  
+https://gmegidish.github.io/demoports/Brother_I_Can_See_The_Light_by_Immortals/
+
+**Euphoria** by **Esteem**  
+https://gmegidish.github.io/demoports/Euphoria_by_Esteem/
+
+**Evoid Droid** by **Excess** & **Portal Process**  
+https://gmegidish.github.io/demoports/Evoid_Droid_by_Excess_Process/
+
+**Hex Appeal** by **Cascada**  
+https://gmegidish.github.io/demoports/Hex_Appeal_by_Cascada/
+
+**Jesus on Cheese** by **S.H.I.T.T.S.**  
+https://gmegidish.github.io/demoports/Jesus_on_Cheese_by_Shitts/
+
+**Ninja 2** by **SCOOP** & **Melon Dezign**  
+https://gmegidish.github.io/demoports/Ninja_2_by_Melon_and_Scoop/
+
+**Outside** by **Melon Dezign**  
+https://gmegidish.github.io/demoports/Outside_by_Melon/
+
+**Red** by **Razor 1911**  
+https://gmegidish.github.io/demoports/Red_by_Razor_1911/
+
+**Robotnik** by **Rage**  
+https://gmegidish.github.io/demoports/Robotnik_by_Rage/
+
+**The Control** by **Coma**  
+https://gmegidish.github.io/demoports/The_Control_by_Coma/
+
+**The Good, the Bad & the Ugly** by **Surprise! Productions**  
+https://gmegidish.github.io/demoports/The_Good_the_Bad_and_the_Ugly_by_Surprise_Productions/
+
+**The Quest of Kahn** by **Immortals**  
+https://gmegidish.github.io/demoports/The_Quest_of_Kahn_by_Immortals/
+
+**Toontown** by **Kolor**  
+https://gmegidish.github.io/demoports/Toontown_by_Kolor/
