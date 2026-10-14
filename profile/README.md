@@ -123,3 +123,9 @@ https://kdrapel.github.io/tpolm-bjoer/
 
 **Nation Zero** by **Jamm**  
 https://kdrapel.github.io/jamm-nation0/
+
+---
+
+
+**STARS: Wonders of the world** by **Noooon**  
+https://kassoulet.github.io/stars_by_nooon/
