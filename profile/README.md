@@ -127,5 +127,8 @@ https://kdrapel.github.io/jamm-nation0/
 ---
 
 
+**73 Million Seconds** by **Pulse**  
+https://kassoulet.github.io/73-Million-Seconds-by-Pulse/
+
 **STARS: Wonders of the world** by **Noooon**  
 https://kassoulet.github.io/stars_by_nooon/
