@@ -138,5 +138,8 @@ https://kassoulet.github.io/saint_by_halcyon/
 **STARS: Wonders of the world** by **Noooon**  
 https://kassoulet.github.io/stars_by_nooon/
 
+**Tour** by **Pulse**  
+https://kassoulet.github.io/Tour_by_Pulse/
+
 **Zilog** by **Sunflower**  
 https://kassoulet.github.io/zilog_by_sunflower/
