@@ -132,6 +132,18 @@ https://kdrapel.github.io/jamm-nation0/
 **73 Million Seconds** by **Pulse**  
 https://kassoulet.github.io/73-Million-Seconds-by-Pulse/
 
+**Crystal Dream 2** by **Triton**  
+https://kassoulet.github.io/CrystalDreams2_by_Triton/
+
+**Dope** by **Complex**  
+https://kassoulet.github.io/Dope_by_Complex/web/
+
+**Epidemic** by **Renaissance** & **iCE**  
+https://kassoulet.github.io/Epidemic_Musicdisk/
+
+**Music Disc Player** by **Future Crew**  
+https://kassoulet.github.io/mdp_by_future_crew/
+
 **Saint** by **Halcyon** & **Da Jormas**  
 https://kassoulet.github.io/saint_by_halcyon/
 
