@@ -124,6 +124,9 @@ https://kdrapel.github.io/tpolm-bjoer/
 **Gamma** by **MFX**  
 https://kdrapel.github.io/mfx-gamma/
 
+**Megablast** by **Orange**  
+https://kdrapel.github.io/orange-megablast/
+
 **Nation Zero** by **Jamm**  
 https://kdrapel.github.io/jamm-nation0/
 
