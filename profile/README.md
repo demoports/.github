@@ -117,24 +117,6 @@ https://gmegidish.github.io/demoports/Toontown_by_Kolor/
 
 ---
 
-
-**Bjoer** by **TPOLM**  
-https://kdrapel.github.io/tpolm-bjoer/
-
-**Gamma** by **MFX**  
-https://kdrapel.github.io/mfx-gamma/
-
-**Megablast** by **Orange**  
-https://kdrapel.github.io/orange-megablast/
-
-**Nation Zero** by **Jamm**  
-https://kdrapel.github.io/jamm-nation0/
-
-**Timezone 13:00** by **Eufrosyne**
-https://kdrapel.github.io/eufrosyne-timezone13/
-
----
-
 **73 Million Seconds** by **Pulse**  
 https://kassoulet.github.io/73-Million-Seconds-by-Pulse/
 
