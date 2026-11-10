@@ -1,9 +1,6 @@
 **Akkordarbeit** by **Bypass**  
 https://demoports.github.io/akkord/
 
-**cdak** by **quite** & **orange**  
-https://demoports.github.io/cdak/
-
 **Despair** by **Iguana**  
 https://demoports.github.io/ign_desp/
 
@@ -12,9 +9,6 @@ https://demoports.github.io/rgba_tbc_elevated/
 
 **fr-041: debris.** by **farbrausch**  
 http://demoports.github.io/fr-041_debris/
-
-**hplus** by **halcyon**  
-https://demoports.github.io/hplus/
 
 **Medium** by **Einklang.net**  
 https://demoports.github.io/medium/
@@ -30,9 +24,6 @@ https://demoports.github.io/2nd_real/
 
 **Tesla** by **Sunflower**  
 https://demoports.github.io/tesla_sunflower/
-
-**The Nonstop Ibiza Experience** by **Orange**  
-https://demoports.github.io/ibiza/
 
 **VIP 2** by **Popsy Team**  
 https://demoports.github.io/vip2/
