@@ -117,6 +117,15 @@ https://kassoulet.github.io/Dope_by_Complex/web/
 **Epidemic** by **Renaissance** & **iCE**  
 https://kassoulet.github.io/Epidemic_Musicdisk/
 
+**Heaven Seven** by **Exceed**  
+https://kassoulet.github.io/Heaven_Seven_by_Exceed/
+
+**Hyperventilation** by **Byterapers**  
+https://kassoulet.github.io/Hyperventilation_by_Byterapers/
+
+**Inside** by **CNCD**  
+https://kassoulet.github.io/Inside_by_CNCD/
+
 **Music Disc Player** by **Future Crew**  
 https://kassoulet.github.io/mdp_by_future_crew/
 
@@ -125,6 +134,9 @@ https://kassoulet.github.io/saint_by_halcyon/
 
 **STARS: Wonders of the world** by **Noooon**  
 https://kassoulet.github.io/stars_by_nooon/
+
+**TE-2RB** by **TPOLM**  
+https://kassoulet.github.io/te-2rb_by_tpolm/
 
 **Tour** by **Pulse**  
 https://kassoulet.github.io/Tour_by_Pulse/
