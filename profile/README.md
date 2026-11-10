@@ -1,9 +1,6 @@
 **Akkordarbeit** by **Bypass**  
 https://demoports.github.io/akkord/
 
-**cdak** by **quite** & **orange**  
-https://demoports.github.io/cdak/
-
 **Despair** by **Iguana**  
 https://demoports.github.io/ign_desp/
 
@@ -12,9 +9,6 @@ https://demoports.github.io/rgba_tbc_elevated/
 
 **fr-041: debris.** by **farbrausch**  
 http://demoports.github.io/fr-041_debris/
-
-**hplus** by **halcyon**  
-https://demoports.github.io/hplus/
 
 **Medium** by **Einklang.net**  
 https://demoports.github.io/medium/
@@ -30,9 +24,6 @@ https://demoports.github.io/2nd_real/
 
 **Tesla** by **Sunflower**  
 https://demoports.github.io/tesla_sunflower/
-
-**The Nonstop Ibiza Experience** by **Orange**  
-https://demoports.github.io/ibiza/
 
 **VIP 2** by **Popsy Team**  
 https://demoports.github.io/vip2/
@@ -97,9 +88,6 @@ https://gmegidish.github.io/demoports/Ninja_2_by_Melon_and_Scoop/
 **Outside** by **Melon Dezign**  
 https://gmegidish.github.io/demoports/Outside_by_Melon/
 
-**Red** by **Razor 1911**  
-https://gmegidish.github.io/demoports/Red_by_Razor_1911/
-
 **Robotnik** by **Rage**  
 https://gmegidish.github.io/demoports/Robotnik_by_Rage/
 
@@ -114,18 +102,6 @@ https://gmegidish.github.io/demoports/The_Quest_of_Kahn_by_Immortals/
 
 **Toontown** by **Kolor**  
 https://gmegidish.github.io/demoports/Toontown_by_Kolor/
-
----
-
-
-**Bjoer** by **TPOLM**  
-https://kdrapel.github.io/tpolm-bjoer/
-
-**Gamma** by **MFX**  
-https://kdrapel.github.io/mfx-gamma/
-
-**Nation Zero** by **Jamm**  
-https://kdrapel.github.io/jamm-nation0/
 
 ---
 
