@@ -108,6 +108,9 @@ https://gmegidish.github.io/demoports/Toontown_by_Kolor/
 **73 Million Seconds** by **Pulse**  
 https://kassoulet.github.io/73-Million-Seconds-by-Pulse/
 
+**Contrast** by **Oxygene**  
+https://kassoulet.github.io/Contrast_by_Oxygene/
+
 **Crystal Dream 2** by **Triton**  
 https://kassoulet.github.io/CrystalDreams2_by_Triton/
 
@@ -126,8 +129,14 @@ https://kassoulet.github.io/Hyperventilation_by_Byterapers/
 **Inside** by **CNCD**  
 https://kassoulet.github.io/Inside_by_CNCD/
 
+**Megablast** by **Orange**  
+https://kassoulet.github.io/Megablast_by_Orange/
+
 **Music Disc Player** by **Future Crew**  
 https://kassoulet.github.io/mdp_by_future_crew/
+
+**Progression** by **Necros**  
+https://kassoulet.github.io/Progression_by_Necros/
 
 **Saint** by **Halcyon** & **Da Jormas**  
 https://kassoulet.github.io/saint_by_halcyon/
@@ -135,11 +144,20 @@ https://kassoulet.github.io/saint_by_halcyon/
 **STARS: Wonders of the world** by **Noooon**  
 https://kassoulet.github.io/stars_by_nooon/
 
+**Super Television** by **Orange**  
+https://kassoulet.github.io/Super_Television_by_Orange/
+
 **TE-2RB** by **TPOLM**  
 https://kassoulet.github.io/te-2rb_by_tpolm/
 
+**The Secret Life of Mr. Black** by **Orange**  
+https://kassoulet.github.io/The_Secret_Life_of_Mr._Black_by_Orange/
+
 **Tour** by **Pulse**  
 https://kassoulet.github.io/Tour_by_Pulse/
+
+**X14** by **Orange**  
+https://kassoulet.github.io/x14_by_Orange/
 
 **Zilog** by **Sunflower**  
 https://kassoulet.github.io/zilog_by_sunflower/
